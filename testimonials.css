@@ -1,0 +1,23 @@
+html{
+  height:100%;
+}
+body{
+  width: 1000px;
+  margin: 0 auto;
+}
+header{
+  background-color:#ff6600;
+  padding: 1px;
+  font-size: 50px;
+  text-align: center;
+  display:block;
+​
+}
+​
+section{
+  width: 0 auto;
+}
+​
+section h2{
+  text-align: center;
+}
